@@ -1,0 +1,1 @@
+// Homepage scaffold. Google Sheets refresh integration will be added in the next stage.\ndocument.addEventListener("DOMContentLoaded", () => {});\n
